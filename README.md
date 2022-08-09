@@ -9,7 +9,7 @@ You've worked hard on your app and have finally decided to submit it for review 
 If you want to cover all bases and leave no ambiguity, I'd suggest making a user manaul.
 <br><br>
 
-I wrote an article about this which can be viewed on [Medium](http://) and was given the idea for this user manual by [Daniel Pass](https://twitter.com/thatmrdan?s=11&t=rO9FKqs_gGadXj_9c6xApg) (who posts great content and deserves a follow on Twitter).
+I wrote an article about this which can be viewed on [Medium](https://medium.com/@kysodev/why-you-should-write-a-user-manual-when-submitting-to-the-appstore-4932393bf941) and was given the idea for this user manual by [Daniel Pass](https://twitter.com/thatmrdan?s=11&t=rO9FKqs_gGadXj_9c6xApg) (who posts great content and deserves a follow on Twitter).
 
 <br><br>
 
